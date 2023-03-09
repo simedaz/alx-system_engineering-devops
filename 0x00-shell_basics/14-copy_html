@@ -1,2 +1,2 @@
 #!/bin/bashcp 
-cp -u *.html
+cp -un *.html ../
