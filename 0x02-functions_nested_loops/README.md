@@ -13,10 +13,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 		
 All of the following files are programs written in C:
 		
-		
 | Filename | Description |
-		
-| -------- | ----------- |
 		
 | `0-Putchar.c` | Prints `Putchar` |
 		
